@@ -4443,6 +4443,10 @@
                                             <id>org.wso2.apimgt.keymanager.category</id>
                                             <version>${carbon.apimgt.version.6.0.4}</version>
                                         </catFeature>
+                                        <catFeature>
+                                            <id>org.wso2.apimgt.keymanager.category</id>
+                                            <version>${carbon.apimgt.version.6.1.2}</version>
+                                        </catFeature>
                                     </features>
                                 </category>
 
